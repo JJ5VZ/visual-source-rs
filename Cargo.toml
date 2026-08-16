@@ -6,9 +6,9 @@ description = "A Rust crate for modifying, creating or reading RetroStudio's vis
 license = "MIT"
 license-file = "LICENSE"
 keywords = ["visualsource"]
-repository = "https://github.com/Prouddani/visual-source-rs"
+repository = "https://github.com/JJ5VZ/visual-source-rs"
 readme = "README.md"
-documentation = "https://github.com/Prouddani/visual-source-rs/wiki"
+documentation = "https://github.com/JJ5VZ/visual-source-rs/wiki"
 
 [dependencies]
 serde_json = "1.0.150"
